@@ -1,2 +1,2 @@
 # MakeItReal
-Exercices and examples 
+Exercises and examples
